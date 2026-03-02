@@ -1,7 +1,7 @@
 # Prescripto - Healthcare Appointment Platform
 
 Full-Stack Developer | Mar – Jun 2025   
-**Live Demo (Vercel):** [https://prescripto-theta-weld.vercel.app/](https://prescripto-theta-weld.vercel.app/)  
+**Live Demo (Vercel):** [https://prescripto-abab.vercel.app/)  
 
 ---
 
