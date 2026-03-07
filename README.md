@@ -49,7 +49,7 @@ docker-compose up -d --build
 ---
 
 ## Overview
-Prescripto is a MERN stack healthcare platform designed to handle over **100 real-time bookings per day**. It improves appointment workflow by **50%** through role-based access for **Admin, Doctor, and Patient**. The platform integrates **Razorpay** and **COD** support for flexible payments, and employs **JWT authentication with rotating refresh tokens and HTTP-only cookies**, reducing unauthorized access by **80%**. Additionally, **Redis** caching and **Cloudinary** integration enhance performance and media handling.
+FastDoc is a MERN stack healthcare platform designed to handle over **100 real-time bookings per day**. It improves appointment workflow by **50%** through role-based access for **Admin, Doctor, and Patient**. The platform integrates **Razorpay** and **COD** support for flexible payments, and employs **JWT authentication with rotating refresh tokens and HTTP-only cookies**, reducing unauthorized access by **80%**. Additionally, **Redis** caching and **Cloudinary** integration enhance performance and media handling.
 
 ---
 
